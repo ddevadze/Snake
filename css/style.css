@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #375;
+}
+.container{
+    width: 470px;
+    margin: auto;
+}
+
+.main-section{
+
+}
+.main{
+    margin-top: 10px;
+    width: 470px;
+    height: 471px;
+    background-color: white;
+    border: 10px solid #657;
+    position: relative;
+}
+.node{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border: 1px solid red;
+    background-color: blue;
+}
+.food{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: yellow;
+}
